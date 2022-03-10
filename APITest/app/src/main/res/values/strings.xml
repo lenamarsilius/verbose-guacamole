@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">APITest</string>
+    <string name="exampletext">exampletext</string>
+    <string name="click_me">click me</string>
+    <string name="enter_hytte_id">Enter hytte-id</string>
+</resources>

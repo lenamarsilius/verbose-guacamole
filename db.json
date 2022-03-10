@@ -1,0 +1,64 @@
+{
+  "hytter": [
+    {
+      "id": 1,
+      "name": "Gamle Storlihytta",
+      "DDLat": 62.74796,
+      "DDLon": 7.14342
+    },
+    {
+      "id": 2,
+      "name": "Kongensdamhytta",
+      "DDLat": 59.68036,
+      "DDLon": 9.53202
+    },
+    {
+      "id": 3,
+      "name": "Austerdalshytta",
+      "DDLat": 61.54403,
+      "DDLon": 6.97167
+    },
+    {
+      "id": 4,
+      "name": "Eigerøy fyrvokterbolig",
+      "DDLat": 58.43237,
+      "DDLon": 5.87049
+    },
+    {
+      "id": 5,
+      "name": "Simskardhytta",
+      "DDLat": 65.2852,
+      "DDLon": 13.65903
+    },
+    {
+      "id": 6,
+      "name": "Kasttjønnhytta",
+      "DDLat": 64.11613,
+      "DDLon": 12.97454
+    },
+    {
+      "id": 7,
+      "name": "Sjåførboligen på Elnestangen",
+      "DDLat": 59.80214,
+      "DDLon": 10.50014
+    },
+    {
+      "id": 8,
+      "name": "Furøya Gjestehuset",
+      "DDLat": 58.59872,
+      "DDLon": 8.95715
+    },
+    {
+      "id": 9,
+      "name": "Storholmhytta",
+      "DDLat": 65.10209,
+      "DDLon": 13.26728
+    },
+    {
+      "id": 10,
+      "name": "Namskrokhytta",
+      "DDLat": 65.08739,
+      "DDLon": 13.4247
+    }
+  ]
+}
